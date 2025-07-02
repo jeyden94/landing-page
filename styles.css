@@ -22,7 +22,7 @@ p {
 
 header {
     background: #1F2937;
-    padding-bottom: 24px;
+    padding-bottom: 64px;
 }
 
 navbar {
@@ -44,6 +44,7 @@ navbar .logo {
     font-size: 24px;
     font-weight: 600;
     color: #F9FAF8;
+    margin-bottom: 48px;
 }
 
 header .hero {
